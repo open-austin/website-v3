@@ -59,6 +59,8 @@ const config: GatsbyConfig = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     { resolve: 'gatsby-plugin-react-svg', options: { include: /svg/ } },
+    `gatsby-plugin-advanced-sitemap`
+
   ]
 };
 
