@@ -6,7 +6,7 @@ project_at: https://github.com/cityofaustin/AffordableHousingDataHub
 type: web service
 status: in development
 categories: [ 'government', 'housing' ]
- contact: ' Rohan Mathur < @rohanmathur101 >'
+contact: 'Rohan Mathur <@rohanmathur101>'
 cfa_stage: Alpha
 date: 2018-11-14 00:00:00
 thumb:

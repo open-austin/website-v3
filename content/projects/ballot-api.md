@@ -6,7 +6,7 @@ project_at: https://github.com/open-austin/ballotapi
 type: web service
 status: in development
 categories: [ 'government', 'elections' ]
- contact: ' Daniel Roesler < @diafygi >'
+contact: 'Daniel Roesler <@diafygi>'
 cfa_stage: Alpha
 date: 2019-03-14 00:00:00
 thumb:

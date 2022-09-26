@@ -6,7 +6,7 @@ project_at: https://github.com/aura-atx
 type: data visualization
 status: in development
 categories: [ 'zoning', 'housing' ]
- contact: ' Rémy Greinhofer, < @rgreinho >'
+contact: 'Rémy Greinhofer, <@rgreinho>'
 cfa_stage: Experiment
 date: 2019-08-14 00:00:00
 thumb:
