@@ -1,9 +1,10 @@
 import * as React from "react"
+import Layout from "../components/Layout"
 
 
 const IndexPage = () => {
   return (
-   <div className="underline">test</div>
+   <Layout><div className="underline">test</div></Layout>
   )
 }
 
