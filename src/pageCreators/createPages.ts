@@ -1,10 +1,11 @@
 import { CreatePagesArgs } from "gatsby";
 import path from 'path'
+import { AllMarkdownRemarkRes } from "../types";
 
 export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   const { createPage } = actions;
 
-  const pages = await graphql(
+  const pages: AllMarkdownRemarkRes<{ fields: { slug: string } }> = await graphql(
     `
       {
         allMarkdownRemark(
@@ -29,7 +30,11 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
     `
   );
 
-  pages.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  if (pages.errors) {
+    throw pages.errors;
+  }
+
+  pages?.data?.allMarkdownRemark.edges.forEach(({ node }) => {
     const particles = node.fields.slug.split("/");
     const slug = particles[particles.length - 2];
 
