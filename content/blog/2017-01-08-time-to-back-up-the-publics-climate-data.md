@@ -4,7 +4,7 @@ title: Time to Back Up the Public's Climate Data
 date: 2017-01-08
 
 published: true
-thumb: /media/SeaIce.jpg
+image: media/SeaIce.jpg
 thumbalt: Chart by @kevpluck shows reduced global sea ice in 2017
 author:
   first_name: Matt

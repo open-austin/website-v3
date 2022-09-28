@@ -4,7 +4,7 @@ title: City of Austin Open Data Initiative April Meetup Recap
 date: 2016-04-11
 
 published: true
-thumb: /media/odi-meetup-april.jpg
+image: media/odi-meetup-april.jpg
 thumbalt: screenshot of data portal at data.austintexas.gov
 author:
   first_name: Mateo

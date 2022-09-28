@@ -10,7 +10,7 @@ contact: 'Rémy Greinhofer, @rgreinho'
 cfa_stage: Experiment
 date: 2018-01-10 00:00:00
 thumb:
-screenshot: /projects_media/requestyoracks.jpg
+screenshot: media/requestyoracks.jpg
 featured: false
 archived: true
 ---

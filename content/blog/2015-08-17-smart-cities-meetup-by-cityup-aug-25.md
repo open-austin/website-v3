@@ -9,7 +9,7 @@ categories:
 tags:
 - General News
 - Public Meetings and Meetups
-thumb: /media/cityup-logo.png
+image: "media/cityup-logo.png"
 thumbalt: Civic Up Logo
 summary: Are you interested in meeting people who want to improve transportation, safety, health, education, economic opportunity, sustainability, environmental quality, and more by using technology, data, and analytics?
 author:

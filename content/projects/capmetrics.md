@@ -8,5 +8,5 @@ categories: [ 'transit', 'capmetro', 'austin', 'statistics', 'data', 'github' ]
 contact: 'Sean Cascketta <scascketta@gmail.com>'
 cfa_stage: Alpha
 date: 2015-06-25 00:00:00
-screenshot: /projects_media/capmetrics.png
+screenshot: media/capmetrics.png
 ---

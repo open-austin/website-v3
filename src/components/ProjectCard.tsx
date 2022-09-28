@@ -1,9 +1,9 @@
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import React from "react";
 import ProjectType from "../interfaces/project";
 
 const ProjectCard = React.forwardRef(
   ({ project, onClick }: { project: ProjectType, onClick?: any }, ref) => {
-    console.log(project)
     return (
       <div
         ref={ref as any}
@@ -11,15 +11,8 @@ const ProjectCard = React.forwardRef(
         onClick={onClick}
       >
         {project.screenshot && (
-          <div className="col-span-4 mb-4">
-            {/* <Image
-              src={project.screenshot}
-              width={700}
-              height={500}
-              layout="responsive"
-              objectFit="cover"
-              alt="Project thumbnail"
-            /> */}
+          <div className="col-span-4 mb-4 h-[200px] overflow-hidden">
+            <GatsbyImage image={getImage(project.screenshot)}/>
           </div>
         )}
         <div className="col-span-8 flex flex-col dark:text-gray-200">

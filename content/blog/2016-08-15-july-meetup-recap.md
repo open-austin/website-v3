@@ -4,7 +4,7 @@ title: July Open Gov & Civic Tech Meetup Recap-Hacking the Budget
 date: 2016-08-15
 
 published: true
-thumb: /media/july-meetup-thumb.jpg
+image: media/july-meetup-thumb.jpg
 thumbalt: July meetup thumbnail. Open Austin members sitting in a dark library room facing the projected screen from July's meetup.
 author:
   first_name: Victoria

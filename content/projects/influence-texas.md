@@ -10,7 +10,7 @@ contact: 'Amy Mosley <influencetexas@gmail.com>'
 cfa_stage: Beta
 date: 2018-09-13 00:00:00
 thumb: influenceTX.png
-screenshot: /projects_media/influenceTX-screenshot.png
+screenshot: media/influenceTX-screenshot.png
 featured: true
 stack: [ "Python", "Django", "PostgreSQL" ]
 ---

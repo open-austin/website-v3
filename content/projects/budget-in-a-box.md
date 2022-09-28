@@ -9,6 +9,6 @@ categories: [ 'city', 'survey', 'austin' ]
 contact: 'William Hardy'
 cfa_stage: Official
 date: 2015-06-05 00:00:00
-screenshot: /projects_media/budgetinabox.png
+screenshot: media/budgetinabox.png
 archived: true
 ---

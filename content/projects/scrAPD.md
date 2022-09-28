@@ -10,6 +10,6 @@ contact: 'Rémy Greinhofer, @rgreinho'
 cfa_stage: Alpha
 date: 2019-03-13 00:00:00
 thumb:
-screenshot: /projects_media/scrapd.jpg
+screenshot: media/scrapd.jpg
 featured: false
 ---

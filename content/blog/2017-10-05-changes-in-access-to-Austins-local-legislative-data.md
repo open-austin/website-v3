@@ -4,7 +4,7 @@ title: Changes in Access to Austin's Local Legislative Data
 date: 2017-10-05
 
 published: true
-thumb: /media/Austin_city_hall.jpg
+image: media/Austin_city_hall.jpg
 thumbalt: Austin city hall building
 author:
   first_name: Matt

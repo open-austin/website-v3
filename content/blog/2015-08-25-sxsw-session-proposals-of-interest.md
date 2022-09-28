@@ -6,7 +6,7 @@ categories:
 tags:
 - General News
 - Open Government
-thumb: /media/sxsw_thumb.jpg
+image: media/sxsw_thumb.jpg
 thumbalt: SXSW Logo
 summary: In 2012, Code for America founder Jen Pahlka was invited to to SXSW Interactive give a keynote address. Every year since, SXSW has presented many sessions of interest to the civic technology community.
 author:

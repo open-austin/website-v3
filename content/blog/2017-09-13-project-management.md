@@ -4,7 +4,7 @@ title: Projects and management
 date: 2017-09-13
 
 published: true
-thumb: /media/project-ideas-snapshot.png
+image: media/project-ideas-snapshot.png
 thumbalt: snapshot of project ideas repo
 author:
   first_name: Andrew

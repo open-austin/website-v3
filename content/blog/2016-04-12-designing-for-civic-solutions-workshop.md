@@ -4,7 +4,7 @@ title: Designing for Civic Solutions Workshop
 date: 2016-04-12
 
 published: true
-thumb: /media/designing-for-civic-solutions.jpg
+image: media/designing-for-civic-solutions.jpg
 thumbalt: Designing for Civic Solutions workshop image
 author:
   first_name: Victoria

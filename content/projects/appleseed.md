@@ -10,6 +10,6 @@ contact: 'Ellen Stone <estone@texasappleseed.net>'
 cfa_stage: Beta
 date: 2015-07-15 00:00:00
 thumb: appleseedthumb.png
-screenshot: /projects_media/appleseed_map.jpg
+screenshot: media/appleseed_map.jpg
 featured: false
 ---

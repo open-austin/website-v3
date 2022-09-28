@@ -10,7 +10,7 @@ contact: 'Rohan Mathur <@rohanmathur101>'
 cfa_stage: Alpha
 date: 2018-11-14 00:00:00
 thumb:
-screenshot: /projects_media/affordable_housing.jpg
+screenshot: media/affordable_housing.jpg
 featured: true
 stack: [ "Node", "React", "SQL", "Python", "Excel" ]
 ---

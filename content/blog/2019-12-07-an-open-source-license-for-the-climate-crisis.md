@@ -4,7 +4,7 @@ title: An Open Source License for the Climate Crisis
 date: 2019-12-07
 
 published: true
-thumb: /media/UN_EGR19_Cover.jpg
+image: media/UN_EGR19_Cover.jpg
 thumbalt: United Nations Emissions Gap Report Cover Page
 author:
   first_name: Matt

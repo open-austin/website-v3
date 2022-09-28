@@ -4,7 +4,7 @@ title: Kirk Watson Advances Open Government Bills
 date: 2017-05-13
 
 published: true
-thumb: /media/tx-lege.jpg
+image: media/tx-lege.jpg
 thumbalt: The last Creative Commons picture of Kirk Watson is gone from the internet.
 author:
   first_name: Matt

@@ -4,7 +4,7 @@ title: Mozilla’s Open Leadership Training can work for Open Austin projects
 date: 2017-04-23
 
 published: true
-thumb: /media/mozilla-open-austin.svg
+image: media/mozilla-open-austin.svg
 thumbalt: Mozilla and Open Austin logos
 author:
   first_name: Andrew

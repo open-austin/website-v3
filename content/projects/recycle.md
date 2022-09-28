@@ -9,7 +9,7 @@ categories: [ 'mapping', 'environmental', 'recycling', 'waste management' ]
 contact: 'Augustus Ireland <augustus.ireland@gmail.com>'
 cfa_stage: Beta
 date: 2016-06-08 00:00:00
-screenshot: /projects_media/recycle-map-view.png
+screenshot: media/recycle-map-view.png
 featured: false
 ---
 

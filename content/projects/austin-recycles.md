@@ -8,6 +8,6 @@ status: in development
 categories: [ 'environment', 'recycle', 'waste management' ]
 contact: 'hack@open-austin.org'
 date: 2014-10-01 00:00:00
-screenshot: /projects_media/austinrecycles.jpg
+screenshot: media/austinrecycles.jpg
 archived: true
 ---

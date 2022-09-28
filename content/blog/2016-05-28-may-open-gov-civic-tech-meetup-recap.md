@@ -4,7 +4,7 @@ title: "May Open Gov & Civic Tech Meetup Recap - Texas Water Planning App by TNR
 date: 2016-05-28
 
 published: true
-thumb: /media/2017-texas-water.png
+image: media/2017-texas-water.png
 thumbalt: Demo of Texas Water Planning App
 author:
   first_name: Mateo

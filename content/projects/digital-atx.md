@@ -9,6 +9,6 @@ cfa_stage: Alpha
 contact: 'Sharla Chamberlain'
 categories: [ 'digital', 'divide', 'community', 'inclusion' ]
 date: 2013-07-18 00:00:00
-screenshot: /projects_media/digitalatx.jpg
+screenshot: media/digitalatx.jpg
 archived: true
 ---

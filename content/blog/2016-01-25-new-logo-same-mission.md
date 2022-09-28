@@ -5,7 +5,7 @@ date: 2016-01-25 09:00:45.000000000 -06:00
 
 published: true
 
-thumb: /media/logo_OpenAustin_Color-300x252.png
+image: media/logo_OpenAustin_Color-300x252.png
 thumbalt: New Open Austin Logo
 categories:
 - General News

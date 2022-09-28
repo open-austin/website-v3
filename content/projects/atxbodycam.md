@@ -9,5 +9,5 @@ cfa_stage: Alpha
 contact: 'Mateo Clarke <info@open-austin.org>'
 categories: [ 'police accountability', 'safety & justice' ]
 date: 2016-03-23 00:00:00
-screenshot: /projects_media/atxbodycam.png
+screenshot: media/atxbodycam.png
 ---

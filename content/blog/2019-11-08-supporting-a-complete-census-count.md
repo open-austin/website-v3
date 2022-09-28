@@ -4,7 +4,7 @@ title: Supporting a Complete Census Count
 date: 2019-11-08
 
 published: true
-thumb: /media/census2020.jpg
+image: media/census2020.jpg
 thumbalt: Census Preparation Report Cover Page
 author:
   first_name: Matt

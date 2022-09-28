@@ -9,5 +9,5 @@ cfa_stage: Official
 contact: 'info@open-austin.org'
 categories: [ 'animal control', 'twitter' ]
 date: 2014-10-02 00:00:00
-screenshot: /projects_media/cutepets.jpg
+screenshot: media/cutepets.jpg
 ---

@@ -4,7 +4,7 @@ title: Austin City Council Agendas Become Open Data
 date: 2016-04-02
 
 published: true
-thumb: /media/agendas.jpg
+image: media/agendas.jpg
 thumbalt: screenshot of data portal at data.austintexas.gov
 author:
   first_name: Matt

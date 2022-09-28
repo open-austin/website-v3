@@ -4,7 +4,7 @@ title: "June Open Gov & Civic Tech Meetup Recap - Lightning Talks "
 date: 2016-06-23
 
 published: true
-thumb: /media/lightingtalks.jpg
+image: media/lightingtalks.jpg
 thumbalt: Diego presents on Sass and color theory
 author:
   first_name: Victoria

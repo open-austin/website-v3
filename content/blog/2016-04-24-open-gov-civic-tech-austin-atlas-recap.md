@@ -4,7 +4,7 @@ title: April Open Gov & Civic Tech Meetup Recap - Ann Armstrong & Austin's Atlas
 date: 2016-04-24
 
 published: true
-thumb: /media/austin-atlas.jpg
+image: media/austin-atlas.jpg
 thumbalt: People look at maps and sketches laid out on a table.
 author:
   first_name: Victoria

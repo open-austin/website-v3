@@ -4,7 +4,7 @@ title: Quantifying Austin's Housing Supply
 date: 2016-06-13
 
 published: true
-thumb: /media/aerial_photo.jpg
+image: media/aerial_photo.jpg
 thumbalt: Aerial photo of Austin
 author:
   first_name: Matt

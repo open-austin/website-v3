@@ -4,7 +4,7 @@ title: "2017: Our next challenge"
 date: 2017-01-17
 
 published: true
-thumb: /media/obama_trump.jpg
+image: media/obama_trump.jpg
 thumbalt: Trump & Obama
 author:
   first_name: Mateo

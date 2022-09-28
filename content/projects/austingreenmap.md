@@ -9,7 +9,7 @@ cfa_stage: Alpha
 contact: 'Luqmaan Dawoodjee <ldawoodjee@gmail.com>'
 categories: [ 'map', 'parks', 'austin', 'pard' ]
 date: 2015-08-02 00:00:00
-screenshot: /projects_media/austingreenmap.jpg
+screenshot: media/austingreenmap.jpg
 ---
 
 Ever need to find a park with a BBQ pit, restrooms, and tennis courts? Now you can. Austin GreenMap is a map of Austin's parks that is easy to search and works offline.

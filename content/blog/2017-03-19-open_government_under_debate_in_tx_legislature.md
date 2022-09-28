@@ -4,7 +4,7 @@ title: "Open Government Under Debate in TX Legislature"
 date: 2017-03-19
 
 published: true
-thumb: /media/tx-lege.jpg
+image: media/tx-lege.jpg
 thumbalt: Texas Capitol Building
 author:
   first_name: Matt

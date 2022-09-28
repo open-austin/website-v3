@@ -4,7 +4,7 @@ title: Press Release - Open Austin Collaborates with AC4D Alumni to Host Worksho
 date: 2016-04-18
 
 published: true
-thumb: /media/designing-for-civic-solutions.jpg
+image: media/designing-for-civic-solutions.jpg
 thumbalt: A photo with blue overlay that has two people workig with post it notes
 author:
   first_name: Marco

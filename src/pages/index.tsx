@@ -1,4 +1,5 @@
 import { graphql, Link } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
 import * as React from "react";
 import Layout from "../components/Layout";
 import PostCard from "../components/PostCard";
@@ -11,10 +12,15 @@ const IndexPage = ({ data }) => {
   );
 
   return (
-    <div className=" ">
-      <div className="h-[330px] relative  text-white">
-        {/* <Image src="/images/code-across-2015-pano.png" layout="fill" alt="" /> */}
-        <div className="container flex flex-col items-center justify-center h-full">
+    <Layout>
+      <div className="h-[330px] relative  text-white overflow-hidden">
+        <StaticImage
+          src="../assets/images/code-across-2015-pano.png"
+          layout="fullWidth"
+          alt=""
+        />
+
+        <div className=" absolute flex flex-col items-center justify-center w-full h-full inset-0">
           <h1 className="relative mb-4 text-7xl ">We are Open Austin</h1>
           <p className="relative text-xl">
             Open government, open data, and civic apps in Austin, Texas
@@ -51,14 +57,14 @@ const IndexPage = ({ data }) => {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {posts.map((post) => (
-            <Link to={`/blog/${post.slug}`} key={post.slug}>
+            <Link to={`/blog${post.slug}`} key={post.slug}>
               <PostCard post={post} />
             </Link>
           ))}
         </div>
         <div className="flex justify-center">
           <Link to="/blog">
-            <a className="btn mt-4">More posts</a>
+            <a className="btn mt-4 dark:text-gray-400">More posts</a>
           </Link>
         </div>
       </div>
@@ -69,18 +75,18 @@ const IndexPage = ({ data }) => {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {projects.map((project) => (
-            <Link to={`/projects/${project.slug}`} key={project.slug}>
+            <Link to={`/projects${project.slug}`} key={project.slug}>
               <ProjectCard project={project} />
             </Link>
           ))}
         </div>
         <div className="flex justify-center">
           <Link to="/projects">
-            <a className="btn mt-4">More projects</a>
+            <a className="btn mt-4 dark:text-gray-400">More projects</a>
           </Link>
         </div>
       </div>
-    </div>
+    </Layout>
   );
 };
 
@@ -104,7 +110,11 @@ export const query = graphql`
             title
             date
             published
-            thumb
+            image {
+              childImageSharp {
+                gatsbyImageData
+              }
+            }
             thumbalt
             author {
               first_name
@@ -138,7 +148,11 @@ export const query = graphql`
             contact
             categories
             date
-            screenshot
+            screenshot {
+              childImageSharp {
+                gatsbyImageData
+              }
+            }
             archived
           }
         }

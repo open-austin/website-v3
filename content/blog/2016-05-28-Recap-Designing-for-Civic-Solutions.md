@@ -4,7 +4,7 @@ title: Designing for Civic Solutions Recap
 date: 2016-05-29
 
 published: true
-thumb: /media/workshop-thumb.jpg
+image: media/workshop-thumb.jpg
 thumbalt: A member draws a storyboard
 author:
   first_name: Victoria

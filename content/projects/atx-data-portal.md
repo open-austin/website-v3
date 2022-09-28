@@ -9,5 +9,5 @@ contact: 'hack@open-austin.org'
 categories: [ 'open data' ]
 date: 2014-10-02 00:00:00
 cfa_status: Beta
-screenshot: /projects_media/howtousethedataportal.jpg
+screenshot: media/howtousethedataportal.jpg
 ---

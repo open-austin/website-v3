@@ -4,7 +4,7 @@ title: CodeAcross Austin 2016 Recap
 date: 2016-03-10
 
 published: true
-thumb: /media/codeacross-actors-performers_250.jpg
+image: media/codeacross-actors-performers_250.jpg
 thumbalt: Participants add their sticky notes to canvas
 author:
   first_name: Victoria

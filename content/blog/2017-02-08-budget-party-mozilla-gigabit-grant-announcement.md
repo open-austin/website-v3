@@ -4,7 +4,7 @@ title: "Announcement: Budget Party Awarded Mozilla Gigabit Community Fund Grant"
 date: 2017-02-08
 
 published: true
-thumb: /media/budget_party_logo.png
+image: media/budget_party_logo.png
 thumbalt: budget party logo
 author:
   first_name: Mateo

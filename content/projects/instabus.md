@@ -10,7 +10,7 @@ contact: 'Luqmaan Dawoodjee <ldawoodjee@gmail.com>'
 cfa_stage: Beta
 date: 2015-04-09 00:00:00
 thumb: instabus.png
-screenshot: /projects_media/instabus.jpg
+screenshot: media/instabus.jpg
 featured: false
 ---
 

@@ -4,7 +4,7 @@ title: Lege Schedules Transparency Bills for Public Hearings
 date: 2017-04-22
 
 published: true
-thumb: /media/Texas-Justice-Lance-Page.jpg
+image: media/Texas-Justice-Lance-Page.jpg
 thumbalt: Texas Justice (Photo Illustration by Lance Page / t r u t h o u t  Adapted From Alcately / Flickr) (CC BY-NC-SA 2.0)
 author:
   first_name: Matt

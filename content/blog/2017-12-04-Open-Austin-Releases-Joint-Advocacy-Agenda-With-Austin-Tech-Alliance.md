@@ -4,7 +4,7 @@ title: Open Austin Releases Joint Advocacy Agenda with Austin Tech Alliance
 date: 2017-12-04
 
 published: true
-thumb: /media/austin-1022943_250.jpg
+image: media/austin-1022943_250.jpg
 thumbalt: View from Congress Avenue Bridge
 author:
    first_name: Matt

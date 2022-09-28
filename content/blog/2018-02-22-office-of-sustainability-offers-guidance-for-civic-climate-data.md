@@ -4,7 +4,7 @@ title: Office of Sustainability Offers Guidance for Civic Climate Data
 date: 2018-02-24
 
 published: true
-thumb: /media/Austin-climate-thumbnail.png
+image: media/Austin-climate-thumbnail.png
 thumbalt: Front cover of Austin Community Climate Plan
 author:
   first_name: Matt

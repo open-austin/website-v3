@@ -4,7 +4,7 @@ title: ATX Hack for Change 2016 Recap
 date: 2016-06-07
 
 published: true
-thumb: /media/atx-hack-for-change.png
+image: media/atx-hack-for-change.png
 thumbalt: ATX Hack for Change Logo
 author:
   first_name: Mateo

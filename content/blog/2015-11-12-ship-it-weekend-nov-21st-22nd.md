@@ -7,7 +7,7 @@ published: true
 
 categories: []
 tags: []
-thumb: /media/pre_shipit_thumb.jpg
+image: media/pre_shipit_thumb.jpg
 thumbalt: Ship It Weekend
 summary: The Ship It Weekend is our final major event of the year! All skill levels are welcomed as we focus on existing projects that need that last little push.
 author:

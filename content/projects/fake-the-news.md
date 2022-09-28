@@ -10,7 +10,7 @@ contact: 'code@mateoclarke.com'
 categories: [ 'literacy', 'internet', 'education' ]
 date: 2017-04-20 00:00:00
 thumb: fake-the-news.png
-screenshot: /projects_media/fake-the-news.png
+screenshot: media/fake-the-news.png
 ---
 
 *****************

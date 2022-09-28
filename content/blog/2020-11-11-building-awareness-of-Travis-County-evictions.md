@@ -4,7 +4,7 @@ title: Building Awareness of Travis County Evictions
 date: 2020-11-11
 
 published: true
-thumb: /media/basta-covid-thumb.jpg
+image: media/basta-covid-thumb.jpg
 thumbalt: BASTA's Covid-19 Eviction Surveillance data dashboard
 author:
   first_name: Matt

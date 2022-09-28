@@ -10,7 +10,7 @@ cfa_stage: Alpha
 categories: ['evictions', 'Python']
 date: 2020-07-05 00:00:00
 thumb: eviction-parser.jpg
-screenshot: /projects_media/eviction-parser.jpg
+screenshot: media/eviction-parser.jpg
 featured: true
 ---
 

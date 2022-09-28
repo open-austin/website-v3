@@ -4,7 +4,7 @@ title: My day as a UXer at the Designing for Civic Solutions Workshop
 date: 2016-05-04
 
 published: true
-thumb: /media/ellen-storyboard.jpg
+image: media/ellen-storyboard.jpg
 thumbalt: Ellen's storyboard
 author:
   first_name: Ellen

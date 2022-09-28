@@ -6,7 +6,7 @@ categories:
   - Open Data
   - Open Government
 tags: []
-thumb: /media/uzkeb-visit.png
+image: media/uzkeb-visit.png
 thumbalt: Amalie and Hailey wear gifted scarves from Uzbek visitors
 author:
   login: admin

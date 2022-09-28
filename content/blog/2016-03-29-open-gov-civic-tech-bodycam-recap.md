@@ -4,7 +4,7 @@ title: March Open Gov & Civic Tech Meetup Recap - APD Body Cameras
 date: 2016-03-29
 
 published: true
-thumb: /media/austin-body-cam-thumb.jpg
+image: media/austin-body-cam-thumb.jpg
 thumbalt: Kathy Mitchell speaks in front of slideshow projection
 author:
   first_name: Mateo

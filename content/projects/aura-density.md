@@ -10,6 +10,6 @@ contact: 'Rémy Greinhofer, <@rgreinho>'
 cfa_stage: Experiment
 date: 2019-08-14 00:00:00
 thumb:
-screenshot: /projects_media/aura-logo.jpg
+screenshot: media/aura-logo.jpg
 featured: false
 ---
