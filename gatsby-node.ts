@@ -3,11 +3,17 @@ import { createArticles } from "./src/pageCreators/createArticles";
 import { createPages } from "./src/pageCreators/createPages";
 import { createProjects } from "./src/pageCreators/createProjects";
 import { createFilePath } from "gatsby-source-filesystem"
+import { createArticlesIndexAndPagination } from "./src/pageCreators/createArticlesIndexAndPagination";
+import { createProjectsIndexAndPagination } from "./src/pageCreators/createProjectsIndexAndPagination";
 
 exports.createPages = async (createPagesArgs: CreatePagesArgs) => {
-  createArticles(createPagesArgs);
   createPages(createPagesArgs);
+
+  createArticles(createPagesArgs);
+  createArticlesIndexAndPagination(createPagesArgs);
+
   createProjects(createPagesArgs);
+  createProjectsIndexAndPagination(createPagesArgs);
 };
 
 exports.onCreateNode = ({ node, actions, getNode }: CreateNodeArgs) => {

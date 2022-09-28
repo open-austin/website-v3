@@ -20,7 +20,7 @@ export default function PostList({ posts, pagination }: Props) {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-8">
         {posts.map((post) => {
           return (
-            <Link to={`/blog/${post.slug}`} key={post.slug}>
+            <Link to={`/blog${post.slug}`} key={post.slug}>
               <PostCard post={post} />
             </Link>
           );
@@ -31,8 +31,8 @@ export default function PostList({ posts, pagination }: Props) {
         current={pagination.current}
         pages={pagination.pages}
         link={{
-          href: (page) => (page === 1 ? "/blog" : "/blog/page/[page]"),
-          as: (page) => (page === 1 ? '' : "/blog/page/" + page),
+          href: (page) => (page === 1 ? "/blog" : `/blog/${page}`),
+          as: (page) => (page === 1 ? '' : "/blog/" + page),
         }}
       />
     </div>
