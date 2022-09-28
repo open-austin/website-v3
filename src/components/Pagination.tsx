@@ -13,7 +13,6 @@ type Props = {
 
 export default function Pagination({ current, pages, link }: Props) {
   const pagination = generatePagination(current, pages);
-  console.log(pagination)
 
   return (
     <div className=" px-4 py-3 flex items-center justify-center border-t border-gray-200 sm:px-6">

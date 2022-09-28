@@ -14,7 +14,7 @@ type Props = {
 
 export default function PostList({ posts, pagination }: Props) {
   return (
-    <div className="container mx-auto">
+    <div >
       <h1 className="text-4xl mb-8 mt-12 font-bold dark:text-gray-200">Blog</h1>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-8">

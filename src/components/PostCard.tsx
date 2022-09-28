@@ -5,8 +5,8 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 const PostCard = React.forwardRef(
   ({ post, onClick }: { post: PostType; onClick?: any }) => {
-    console.log(post)
     const img = getImage(post.image)
+
     return (
       <div
         className="transform transition duration-500 hover:scale-105 cursor-pointer"

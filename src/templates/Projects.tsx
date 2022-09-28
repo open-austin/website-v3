@@ -1,12 +1,18 @@
-import React from 'react'
-import ProjectsList from '../components/ProjectsList'
+import { PageProps } from "gatsby";
+import React from "react";
+import Layout from "../components/Layout";
+import ProjectsList from "../components/ProjectsList";
 
-const Projects = ({ pageContext }) => {
+const Projects = ({
+  pageContext,
+}: PageProps<{}, { projects: any[]; pagination: any }>) => {
   const { projects, pagination } = pageContext;
 
   return (
-    <ProjectsList projects={projects} pagination={pagination} />
-  )
-}
+    <Layout className="container">
+      <ProjectsList projects={projects} pagination={pagination} />
+    </Layout>
+  );
+};
 
-export default Projects
+export default Projects;

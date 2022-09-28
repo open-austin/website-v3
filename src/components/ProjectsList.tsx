@@ -14,7 +14,7 @@ type Props = {
 
 export default function ProjectsList({ projects, pagination }: Props) {
   return (
-    <div className="container mx-auto">
+    <div >
       <h1 className="text-4xl mb-8 mt-12 font-bold dark:text-gray-200">
         Projects
       </h1>
@@ -22,7 +22,7 @@ export default function ProjectsList({ projects, pagination }: Props) {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-8">
         {projects.map((project) => {
           return (
-            <Link to={`/projects/${project.slug}`} key={project.slug}>
+            <Link to={`/projects${project.slug}`} key={project.slug}>
               <ProjectCard project={project} />
             </Link>
           );
@@ -33,8 +33,8 @@ export default function ProjectsList({ projects, pagination }: Props) {
         current={pagination.current}
         pages={pagination.pages}
         link={{
-          href: (page) => (page === 1 ? "/projects" : "/projects/page/[page]"),
-          as: (page) => (page === 1 ? '' : "/projects/page/" + page),
+          href: (page) => (page === 1 ? "/projects" : `/projects/${page}`),
+          as: (page) => (page === 1 ? '' : "/projects/" + page),
         }}
       />
     </div>
