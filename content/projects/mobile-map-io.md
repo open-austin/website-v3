@@ -9,7 +9,7 @@ cfa_stage: Experiment
 categories: [ 'civic engagement', 'Mobile', 'Javascript' ]
 date: 2017-06-04 00:00:00
 thumb: mobile-map-io.png
-screenshot: media/mobile-map-io.png
+image: media/mobile-map-io.png
 archived: true
 ---
 

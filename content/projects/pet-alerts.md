@@ -8,6 +8,6 @@ status: deployed
 contact: 'Tim Shelburne'
 categories: [ 'animal center', 'lost pets' ]
 date: 2015-08-17 00:00:00
-screenshot: media/petalerts.jpg
+image: media/petalerts.jpg
 archived: true
 ---

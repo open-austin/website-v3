@@ -148,7 +148,7 @@ export const query = graphql`
             contact
             categories
             date
-            screenshot {
+            image {
               childImageSharp {
                 gatsbyImageData
               }

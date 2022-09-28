@@ -8,7 +8,7 @@ categories: [ 'data', 'construction', 'permits', 'city' ]
 contact: 'Luqmaan Dawoodjee <ldawoodjee@gmail.com>'
 cfa_stage: Alpha
 date: 2015-06-25 00:00:00
-screenshot: media/constructionpermits.jpg
+image: media/constructionpermits.jpg
 archived: true
 ---
 

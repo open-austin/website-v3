@@ -9,7 +9,7 @@ contact: 'Mateo Clarke <info@open-austin.org>'
 categories: [ 'open data' ]
 date: 2015-11-21 00:00:00
 cfa_stage: Beta
-screenshot: media/opendataprogressreport.jpg
+image: media/opendataprogressreport.jpg
 featured: false
 ---
 

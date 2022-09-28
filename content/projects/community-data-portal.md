@@ -7,7 +7,7 @@ status: inactive
 contact: 'amaliebarras@gmail.com'
 categories: [ 'data', 'access', 'austin' ]
 date: 2016-10-11 00:00:00
-screenshot: media/closeup.png
+image: media/closeup.png
 archived: true
 ---
 

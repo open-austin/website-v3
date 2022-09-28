@@ -7,6 +7,6 @@ cfa_status: Official
 contact: 'https://twitter.com/ATXfloods'
 categories: [ 'map', 'floods', 'austin' ]
 date: 2012-08-01 00:00:00
-screenshot: media/atxfloods.jpg
+image: media/atxfloods.jpg
 featured: false
 ---

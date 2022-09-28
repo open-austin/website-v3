@@ -10,7 +10,7 @@ contact: 'Daniel Roesler <@diafygi>'
 cfa_stage: Alpha
 date: 2019-03-14 00:00:00
 thumb:
-screenshot: media/ballotapi.jpg
+image: media/ballotapi.jpg
 featured: false
 stack: [ "Python", "Jekyll", "PostgreSQL" ]
 ---

@@ -5,7 +5,7 @@ type ProjectType = {
   readonly slug: string;
   readonly tags?: string[];
   readonly description: string;
-  readonly screenshot: string;
+  readonly image: string;
 }
 
 export default ProjectType

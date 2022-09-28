@@ -9,6 +9,6 @@ contact: 'Mateo Clarke <code@mateoclarke.com>'
 categories: [ 'GIS', 'mapping', 'parks', 'inequity', 'green-space' ]
 date: 2015-05-18 00:00:00
 cfa_stage: Beta
-screenshot: media/austinparkequity.jpg
+image: media/austinparkequity.jpg
 featured: false
 ---

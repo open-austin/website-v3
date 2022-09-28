@@ -10,6 +10,6 @@ contact: 'Matt Carey <@mcareyaus>'
 cfa_stage: Alpha
 date: 2019-11-08 00:00:00
 thumb:
-screenshot: media/atmosphere-license.jpg
+image: media/atmosphere-license.jpg
 featured: true
 ---

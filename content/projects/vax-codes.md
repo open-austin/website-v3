@@ -10,7 +10,7 @@ contact: 'Daniel Roesler, @danielroesler'
 cfa_stage: Beta
 date: 2021-02-10 00:00:00
 thumb:
-screenshot: media/vax-codes.jpg
+image: media/vax-codes.jpg
 featured: true
 archived: false
 ---

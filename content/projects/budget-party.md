@@ -10,7 +10,7 @@ cfa_stage: Alpha
 categories: [ 'civic engagement', 'Finance', 'Javascript' ]
 date: 2017-04-20 00:00:00
 thumb: budget-party.png
-screenshot: media/budget-party.png
+image: media/budget-party.png
 featured: false
 ---
 

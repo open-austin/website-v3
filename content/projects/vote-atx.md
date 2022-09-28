@@ -8,6 +8,6 @@ status: deployed
 categories: [ 'elections', 'politics', 'voting' ]
 contact: 'hack@open-austin.org'
 date: 2014-10-02 00:00:00
-screenshot: media/voteatx.jpg
+image: media/voteatx.jpg
 archived: true
 ---

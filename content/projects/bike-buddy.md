@@ -7,7 +7,7 @@ type: web application
 status: archival
 categories: [ 'transporation', 'bicycling' ]
 contact: 'Chip Rosenthal <chip@unicom.com>'
-screenshot: media/bike-buddy.png
+image: media/bike-buddy.png
 date: 2014-10-02 00:00:00
 archived: true
 ---

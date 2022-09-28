@@ -9,7 +9,7 @@ cfa_stage: Alpha
 categories: [ 'Data Liberation', 'Data wrangling', 'DevOps/Infrastructure', 'Housing', 'Open data', 'Policy', 'Urban Planning' ]
 date: 2017-04-20 00:00:00
 thumb: liberate-appraisal-data.png
-screenshot: media/liberate-appraisal-data.png
+image: media/liberate-appraisal-data.png
 ---
 
 *****************

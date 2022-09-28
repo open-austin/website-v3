@@ -9,7 +9,7 @@ categories: [ 'Advocacy', 'Civic Engagement', 'Data Liberation', 'Data wrangling
 date: 2017-09-29 00:00:00
 cfa_stage: Outside
 thumb: openstates.png
-screenshot: media/Open-States-TX-screenshot.jpg
+image: media/Open-States-TX-screenshot.jpg
 ---
 
 *****************

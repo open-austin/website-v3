@@ -9,7 +9,7 @@ categories: [ 'openstreetmap', 'austin', 'data' ]
 contact: 'Andy Wilson <wilson.andrew.j@gmail.com>'
 cfa_stage: Outside
 date: 2015-11-05 00:00:00
-screenshot: media/osmimport.jpg
+image: media/osmimport.jpg
 archived: true
 ---
 

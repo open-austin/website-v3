@@ -10,9 +10,9 @@ const ProjectCard = React.forwardRef(
         className="transform transition duration-500 hover:scale-105 cursor-pointer"
         onClick={onClick}
       >
-        {project.screenshot && (
+        {project.image && (
           <div className="col-span-4 mb-4 h-[200px] overflow-hidden">
-            <GatsbyImage image={getImage(project.screenshot)}/>
+            <GatsbyImage image={getImage(project.image)}/>
           </div>
         )}
         <div className="col-span-8 flex flex-col dark:text-gray-200">
